@@ -1,0 +1,25 @@
+DATASETS:
+
+=====
+
+NAME: rotten-imdb (modality task, sentence based):
+
+URL: http://www.cs.cornell.edu/people/pabo/movie-review-data/rotten_imdb.tar.gz
+
+=====
+
+NAME: polarity-dataset (sentiment task):
+
+- TYPE: v1 (sentence based):
+    URL: https://www.cs.cornell.edu/people/pabo/movie-review-data/rt-polaritydata.tar.gz
+
+- TYPE: v2 (text based):
+    URL: https://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz
+
+=====
+
+NAME: acl-imdb (sentiment task, text based):
+
+URL: https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+
+=====
